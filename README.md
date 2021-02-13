@@ -5,4 +5,4 @@ In this Challenge I am using matplotlip to plot lab results of tumor treatments 
 
 
 
-![Test Image 3](/3DTest.png)
+![Test Image 3](/Treatment Over Time.png)
