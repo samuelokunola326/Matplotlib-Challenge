@@ -10,4 +10,4 @@ In this Challenge I am using matplotlip to plot lab results of tumor treatments 
 This graph shows the number of mice that survived the treatment of each drug
 
 
-![boxplot](/top2_v_bottom2.png)
+![Test Image 4](https://github.com/samuelokunola326/Tumor_Drug_Analysis/blob/master/bloxplot.PNG)
