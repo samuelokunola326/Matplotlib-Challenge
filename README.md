@@ -11,3 +11,5 @@ This graph shows the number of mice that survived the treatment of each drug
 
 
 ![Test Image 4](https://github.com/samuelokunola326/Tumor_Drug_Analysis/blob/master/bloxplot.PNG)
+
+![Test Image 4](https://github.com/samuelokunola326/Tumor_Drug_Analysis/blob/master/bloxplot.PNG)
